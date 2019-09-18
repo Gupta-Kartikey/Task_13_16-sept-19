@@ -14,7 +14,7 @@ public class task9 {
 		Session session=sf.openSession();
 		System.out.println("@@@@@@@@@Data Insertion");
 		
-		Vehicle v1=new Vehicle(1,"Lamborgini","54fcfg67g",1245332f);
+		Vehicle v1=new Vehicle(1,"Lamborgini","54fhcfg67g",1245332f);
 		Vehicle v2=new Vehicle(2,"Spartan","fc0fg67g",845332f);
 		Vehicle v3=new Vehicle(3,"Scoda","fg67g",445332f);
 		//create
